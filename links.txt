@@ -1,0 +1,15 @@
+
+Excess Deaths Associated with COVID-19 - Dataset 1
+https://data.cdc.gov/NCHS/Excess-Deaths-Associated-with-COVID-19/xkkf-xrst
+
+
+VSRR - State and National Provisional Counts for Live Births, Deaths, and Infant Deaths dataset 2
+https://data.cdc.gov/NCHS/VSRR-State-and-National-Provisional-Counts-for-Liv/hmz2-vwda
+
+
+Weekly Counts of Death by Jurisdiction and Select Causes of Death dataset 3
+https://data.cdc.gov/NCHS/Weekly-Counts-of-Death-by-Jurisdiction-and-Select-/u6jv-9ijr
+
+
+Weekly Counts of Deaths by Jurisdiction and Age Dataset 4
+https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-Jurisdiction-and-Age/y5bj-9g5w
